@@ -1,0 +1,24 @@
+:checkedbox: pass:normal[`[&#10004;]`]
+
+|===
+|Demo Name |Features Demonstrated| Description| Prerequisites
+
+|https://github.com/infinispan-demos/infinispan-events[upcoming events]
+|
+{checkedbox} Remote Node.js +
+{checkedbox} Execute, Listeners, Iterator APIs +
+{checkedbox} Java Streams via Remote JS script +
+|
+A 3-tier demo application showing upcoming Infinispan Events (e.g. conferences talks) using Elm, Node.js and Infinispan Servers.
+|
+
+|https://github.com/infinispan-demos/infinispan-nosqlunit-demo[nosqlunit]
+|
+{checkedbox} Embedded +
+{checkedbox} Remote Java +
+{checkedbox} JUnit
+|
+Demonstrates how to unit test Infinispan using https://github.com/lordofthejars/nosql-unit[NoSQLUnit] library.
+|
+
+|===
